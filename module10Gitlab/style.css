@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+}
+h1 {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+blockquote {
+    font-style: italic;
+    text-align: center;
+    color: darkgreen;
+}
